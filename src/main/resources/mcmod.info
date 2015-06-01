@@ -1,0 +1,16 @@
+[
+{
+  "modid": "inversion",
+  "name": "Inversion",
+  "description": "WRITE A DESCRIPTION!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "www.sythsgod.com/Inversion",
+  "updateUrl": "",
+  "authorList": ["Syths"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
